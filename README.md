@@ -62,6 +62,7 @@ for i in range(len(X)):
 
 
 Output:
+![196476074-cb966728-7e18-4f12-91c1-d273ae0ad587](https://user-images.githubusercontent.com/97545116/196604604-275f4651-0738-414b-8d80-f25eabb4f172.png)
 
 
 
