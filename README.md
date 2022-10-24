@@ -62,8 +62,7 @@ for i in range(len(X)):
 
 
 Output:
-<img src="https://github.com/hemth/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/196476074-cb966728-7e18-4f12-91c1-d273ae0ad587.png" alt="best-fit-line"/>
-
+<img src"https://github.com/hemth/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/196476074-cb966728-7e18-4f12-91c1-d273ae0ad587.png" alt="bestfitline"/>
 
 Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
