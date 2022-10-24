@@ -62,7 +62,7 @@ for i in range(len(X)):
 
 
 Output:
-https://github.com/hemth/Find-the-best-fit-line-using-Least-Squares-Method/blob/main/196476074-cb966728-7e18-4f12-91c1-d273ae0ad587.png
+196476074-cb966728-7e18-4f12-91c1-d273ae0ad587.png
 
 
 Result:
